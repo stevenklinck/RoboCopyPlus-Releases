@@ -63,4 +63,8 @@ To uninstall, quit RoboCopy+ from its tray icon, turn off **Start with Windows**
 - Schedules only run while RoboCopy+ is open. It can sit in the system tray, and Start with Windows opens it at sign-in.
 - Backup mode (`/B`) needs RoboCopy+ to be run as administrator.
 
+## Open-source licenses
+
+RoboCopy+ itself isn't open source, but it includes open-source components, notably Qt and Qt for Python (PySide6) under the LGPL-3.0, Python under the PSF license, and OpenSSL under the Apache-2.0 license. Their full licenses, and where to get their source code, are in `THIRD-PARTY-NOTICES.txt`, attached to every release and viewable in the app under **About > Open source**.
+
 © 2026 Steven Klinck
